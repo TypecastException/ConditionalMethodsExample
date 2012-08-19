@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalMethodsExample", "ConditionalMethodsExample\ConditionalMethodsExample.csproj", "{8148AD1C-0BA0-456B-8F12-901A5EB870F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		LIVE|x86 = LIVE|x86
+		Release|x86 = Release|x86
+		TEST|x86 = TEST|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.Debug|x86.ActiveCfg = Debug|x86
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.Debug|x86.Build.0 = Debug|x86
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.LIVE|x86.ActiveCfg = LIVE|x86
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.LIVE|x86.Build.0 = LIVE|x86
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.Release|x86.ActiveCfg = Release|x86
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.Release|x86.Build.0 = Release|x86
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.TEST|x86.ActiveCfg = TEST|x86
+		{8148AD1C-0BA0-456B-8F12-901A5EB870F3}.TEST|x86.Build.0 = TEST|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
